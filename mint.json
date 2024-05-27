@@ -31,8 +31,8 @@
       "url": "api-reference"
     },
     {
-      "name": "介紹",
-      "url": "介紹"
+      "name": "trytry",
+      "url": "try1"
     }
   ],
   "anchors": [
@@ -79,9 +79,9 @@
       ]
     },
     {
-      "group": "試試看介紹",
+      "group": "trytry",
       "pages": [
-        "試試看/介紹"
+        "try1/test1"
       ]
     },
     {
