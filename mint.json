@@ -30,7 +30,7 @@
       "name": "API Reference",
       "url": "api-reference"
     },
-        {
+    {
       "name": "介紹",
       "url": "介紹"
     }
@@ -76,6 +76,12 @@
       "group": "API Documentation",
       "pages": [
         "api-reference/introduction"
+      ]
+    },
+    {
+      "group": "試試看介紹",
+      "pages": [
+        "試試看/介紹"
       ]
     },
     {
